@@ -37,5 +37,6 @@ Usage
 Follow the on-screen menu to interact with the project.
 Choose options such as adding , Removal, Edit, and Exit.
 Screenshots
+<img width="700" alt="Screenshot 2025-01-07 at 4 01 17 AM" src="https://github.com/user-attachments/assets/3d2a0fad-6416-4aea-8b52-5da08b460f29" />
 
-Screenshot 1
+
